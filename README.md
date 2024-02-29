@@ -6,5 +6,6 @@
 - [[258712](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/258712.js)] 2024 KAKAO WINTER INTERNSHIP > 가장 많이 받은 선물
 - [[42888](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/42888.js)] 2019 KAKAO BLIND RECRUITMENT > 오픈채팅방
 - [[12981](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12981.js)] Summer/Winder Coding(~2018) > 영어 끝말잇기
+- [[250137](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/250137.js)] PCCP 기출문제 > [PCCP 기출문제] 1번 / 붕대 감기
 
 ## LeetCode
