@@ -9,5 +9,6 @@
 - [[250137](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/250137.js)] PCCP 기출문제 > [PCCP 기출문제] 1번 / 붕대 감기
 - [[172928](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/172928.js)] 공원 산책
 - [[178871](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/178871.js)] 달리기 경주
+- [[150370](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/150370.js)] 2023 KAKAO BLIND RECRUITMENT > 개인정보 수집 유효기간
 
 ## LeetCode
