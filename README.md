@@ -1,5 +1,9 @@
 # JS_Algorithm
 
+### week3
+
+- [[67256](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/67256.js)] 2020 카카오 인턴십 > 키패드 누르기
+
 ### week2
 
 - [[172928](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/172928.js)] 공원 산책
