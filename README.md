@@ -7,6 +7,7 @@
 - [[150370](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/150370.js)] 2023 KAKAO BLIND RECRUITMENT > 개인정보 수집 유효기간
 - [[161990](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/161990.js)] 바탕화면 정리
 - [[118666](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/118666.js)] 2022 KAKAO TECH INTERNSHIP > 성격 유형 검사하기
+- [[72410](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/72410.js)] 2021 KAKAO BLIND RECRUITMENT > 신규 아이디 추천
 
 ### week 1
 
