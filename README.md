@@ -3,6 +3,7 @@
 ### week3
 
 - [[67256](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/67256.js)] 2020 카카오 인턴십 > 키패드 누르기
+- [[64061](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/64061.js)] 2019 카카오 개발자 겨울 인턴십 > 크레인 인형뽑기 게임
 
 ### week2
 
