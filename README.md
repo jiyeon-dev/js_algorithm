@@ -2,9 +2,9 @@
 
 ### week3
 
-- [[67256](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/67256.js)] 2020 카카오 인턴십 > 키패드 누르기
 - [[64061](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/64061.js)] 2019 카카오 개발자 겨울 인턴십 > 크레인 인형뽑기 게임
 - [[133502](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/133502.js)] 햄버거 만들기
+- [[155652](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/155652.js)] 둘만의 암호
 
 ### week2
 
@@ -14,6 +14,7 @@
 - [[161990](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/161990.js)] 바탕화면 정리
 - [[118666](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/118666.js)] 2022 KAKAO TECH INTERNSHIP > 성격 유형 검사하기
 - [[72410](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/72410.js)] 2021 KAKAO BLIND RECRUITMENT > 신규 아이디 추천
+- [[67256](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/67256.js)] 2020 카카오 인턴십 > 키패드 누르기
 
 ### week 1
 
