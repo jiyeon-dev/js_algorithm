@@ -5,6 +5,7 @@
 - [[64061](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/64061.js)] 2019 카카오 개발자 겨울 인턴십 > 크레인 인형뽑기 게임
 - [[133502](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/133502.js)] 햄버거 만들기
 - [[155652](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/155652.js)] 둘만의 암호
+- [[42576](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/42576.js)] 완주하지 못한 선수
 
 ### week2
 
