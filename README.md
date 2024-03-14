@@ -6,6 +6,7 @@
 - [[133502](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/133502.js)] 햄버거 만들기
 - [[155652](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/155652.js)] 둘만의 암호
 - [[42576](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/42576.js)] 완주하지 못한 선수
+- [[131128](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/131128.js)] 숫자 짝꿍
 
 ### week2
 
