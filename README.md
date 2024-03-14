@@ -11,6 +11,7 @@
 | 둘만의 암호                                           | Lv. 1 | array    | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/155652.js)] |
 | 완주하지 못한 선수                                    | Lv. 1 | hash     | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/42576)  | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/42576.js)]  |
 | 숫자 짝꿍                                             | Lv. 1 | string   | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/131128.js)] |
+| 14. Longest Common Prefix                             | Easy  | string   | [leetcode](https://leetcode.com/problems/longest-common-prefix/description/)    | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/14.js)]        |
 
 ### WEEK2 (2024.03.04 ~ 2024.03.10)
 
