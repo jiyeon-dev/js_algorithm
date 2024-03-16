@@ -13,6 +13,7 @@
 | 숫자 짝꿍                                             | Lv. 1  | string   | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/131128)  | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/131128.js)] |
 | 14. Longest Common Prefix                             | Easy   | string   | [leetcode](https://leetcode.com/problems/longest-common-prefix/description/)     | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/14.js)]        |
 | 930. Binary Subarrays With Sum                        | Medium | array    | [leetcode](https://leetcode.com/problems/binary-subarrays-with-sum/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/930.js)]       |
+| 체육복                                                | Lv. 1  | Greedy   | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/42862)   | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/42862.js)]  |
 
 ### WEEK2 (2024.03.04 ~ 2024.03.10)
 
