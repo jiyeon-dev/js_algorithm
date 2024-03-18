@@ -4,8 +4,9 @@
 
 ### WEEK4 (2024.03.18 ~ 2024.03.24)
 
-| Question | level | keywords | link | code |
-| -------- | ----- | -------- | ---- | ---- |
+| Question                                        | level  | keywords | link                                                                                             | code                                                                           |
+| ----------------------------------------------- | ------ | -------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| 452. Minimum Number of Arrows to Burst Balloons | Medium | greedy   | [leetcode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/452.js)] |
 
 ### WEEK3 (2024.03.11 ~ 2024.03.17)
 
