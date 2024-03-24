@@ -2,6 +2,11 @@
 
 > Solve the _5_ algorithms _per week_.
 
+### WEEK5 (2024.03.25 ~ 2024.04.01)
+
+| Question | level | keywords | link | code |
+| -------- | ----- | -------- | ---- | ---- |
+
 ### WEEK4 (2024.03.18 ~ 2024.03.24)
 
 | Question                                                                   | level  | keywords | link                                                                                             | code                                                                                 |
@@ -12,6 +17,7 @@
 | 2021 Dev-Matching: 웹 백엔드 개발자(상반기) > 로또의 최고 순위와 최저 순위 | Lv. 1  | array    | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/77484)                   | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/77484.js)]  |
 | 2018 KAKAO BLIND RECRUITMENT > [1차] 다트 게임                             | Lv. 1  | string   | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/17682)                   | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/17682.js)]  |
 | 옹알이(2)                                                                  | Lv. 1  | string   | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/133499)                  | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/133499.js)] |
+| 덧칠하기                                                                   | Lv. 1  | array    | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/161989)                  | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/161989.js)] |
 
 ### WEEK3 (2024.03.11 ~ 2024.03.17)
 
