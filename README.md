@@ -4,8 +4,9 @@
 
 ### WEEK5 (2024.03.25 ~ 2024.04.01)
 
-| Question | level | keywords | link | code |
-| -------- | ----- | -------- | ---- | ---- |
+| Question                                 | level  | keywords | link                                                                                     | code                                                                            |
+| ---------------------------------------- | ------ | -------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 1657. Determine if Two Strings Are Close | Medium | hash     | [leetcode](https://leetcode.com/problems/determine-if-two-strings-are-close/description) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1657.js)] |
 
 ### WEEK4 (2024.03.18 ~ 2024.03.24)
 
