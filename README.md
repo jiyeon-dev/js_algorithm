@@ -4,11 +4,13 @@
 
 ### WEEK5 (2024.03.25 ~ 2024.04.01)
 
-| Question                                 | level  | keywords | link                                                                                     | code                                                                                |
-| ---------------------------------------- | ------ | -------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| 1657. Determine if Two Strings Are Close | Medium | hash     | [leetcode](https://leetcode.com/problems/determine-if-two-strings-are-close/description) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1657.js)]     |
-| 442. Find All Duplicates in an Array     | Medium | array    | [leetcode](https://leetcode.com/problems/find-all-duplicates-in-an-array/description)    | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/442.js)]      |
-| 소수 찾기                                | Lv. 1  |          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12921)           | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12921.js)] |
+| Question                                  | level  | keywords | link                                                                                     | code                                                                                 |
+| ----------------------------------------- | ------ | -------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| 1657. Determine if Two Strings Are Close  | Medium | hash     | [leetcode](https://leetcode.com/problems/determine-if-two-strings-are-close/description) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1657.js)]      |
+| 442. Find All Duplicates in an Array      | Medium | array    | [leetcode](https://leetcode.com/problems/find-all-duplicates-in-an-array/description)    | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/442.js)]       |
+| 소수 찾기                                 | Lv. 1  |          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12921)           | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12921.js)]  |
+| Summer/Winter Coding(~2018) > 소수 만들기 | Lv. 1  |          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12977)           | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12977.js)]  |
+| 과일 장수                                 | Lv. 1  |          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/135808)          | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/135808.js)] |
 
 ### WEEK4 (2024.03.18 ~ 2024.03.24)
 
