@@ -11,6 +11,8 @@
 | 소수 찾기                                 | Lv. 1  |          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12921)           | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12921.js)]  |
 | Summer/Winter Coding(~2018) > 소수 만들기 | Lv. 1  |          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12977)           | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12977.js)]  |
 | 과일 장수                                 | Lv. 1  |          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/135808)          | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/135808.js)] |
+| 713. Subarray Product Less Than K         | Medium | array    | [leetcode](https://leetcode.com/problems/subarray-product-less-than-k/description)       | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/713.js)]       |
+| 41. First Missing Positive                | Hard   | array    | [leetcode](https://leetcode.com/problems/first-missing-positive/description/)            | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/41.js)]        |
 
 ### WEEK4 (2024.03.18 ~ 2024.03.24)
 
