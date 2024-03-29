@@ -2,7 +2,7 @@
 
 > Solve the _5_ algorithms _per week_.
 
-### WEEK5 (2024.03.25 ~ 2024.04.01)
+### WEEK5 (2024.03.25 ~ 2024.03.31)
 
 | Question                                  | level  | keywords | link                                                                                     | code                                                                                 |
 | ----------------------------------------- | ------ | -------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
@@ -13,6 +13,7 @@
 | 과일 장수                                 | Lv. 1  |          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/135808)          | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/135808.js)] |
 | 713. Subarray Product Less Than K         | Medium | array    | [leetcode](https://leetcode.com/problems/subarray-product-less-than-k/description)       | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/713.js)]       |
 | 41. First Missing Positive                | Hard   | array    | [leetcode](https://leetcode.com/problems/first-missing-positive/description/)            | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/41.js)]        |
+| 월간 코드 챌린지 시즌1 > 삼각 달팽이      | Lv. 2  | array    | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/68645)           | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/68645.js)]  |
 
 ### WEEK4 (2024.03.18 ~ 2024.03.24)
 
