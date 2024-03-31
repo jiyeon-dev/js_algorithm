@@ -4,18 +4,19 @@
 
 ### WEEK5 (2024.03.25 ~ 2024.03.31)
 
-| Question                                  | level  | keywords | link                                                                                     | code                                                                                 |
-| ----------------------------------------- | ------ | -------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| 1657. Determine if Two Strings Are Close  | Medium | hash     | [leetcode](https://leetcode.com/problems/determine-if-two-strings-are-close/description) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1657.js)]      |
-| 442. Find All Duplicates in an Array      | Medium | array    | [leetcode](https://leetcode.com/problems/find-all-duplicates-in-an-array/description)    | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/442.js)]       |
-| 소수 찾기                                 | Lv. 1  |          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12921)           | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12921.js)]  |
-| Summer/Winter Coding(~2018) > 소수 만들기 | Lv. 1  |          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12977)           | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12977.js)]  |
-| 과일 장수                                 | Lv. 1  |          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/135808)          | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/135808.js)] |
-| 713. Subarray Product Less Than K         | Medium | array    | [leetcode](https://leetcode.com/problems/subarray-product-less-than-k/description)       | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/713.js)]       |
-| 41. First Missing Positive                | Hard   | array    | [leetcode](https://leetcode.com/problems/first-missing-positive/description/)            | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/41.js)]        |
-| 월간 코드 챌린지 시즌1 > 삼각 달팽이      | Lv. 2  | array    | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/68645)           | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/68645.js)]  |
-| 1535. Find the Winner of an Array Game    | Medium | array    | [leetcode](https://leetcode.com/problems/find-the-winner-of-an-array-gamek/description)  | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1535.js)]      |
-| 위클리 챌린지 > 부족한 금액 계산하기      | Lv. 1  |          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/82612)           | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/82612.js)]  |
+| Question                                    | level  | keywords | link                                                                                         | code                                                                                 |
+| ------------------------------------------- | ------ | -------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| 1657. Determine if Two Strings Are Close    | Medium | hash     | [leetcode](https://leetcode.com/problems/determine-if-two-strings-are-close/description)     | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1657.js)]      |
+| 442. Find All Duplicates in an Array        | Medium | array    | [leetcode](https://leetcode.com/problems/find-all-duplicates-in-an-array/description)        | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/442.js)]       |
+| 소수 찾기                                   | Lv. 1  |          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12921)               | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12921.js)]  |
+| Summer/Winter Coding(~2018) > 소수 만들기   | Lv. 1  |          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12977)               | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12977.js)]  |
+| 과일 장수                                   | Lv. 1  |          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/135808)              | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/135808.js)] |
+| 713. Subarray Product Less Than K           | Medium | array    | [leetcode](https://leetcode.com/problems/subarray-product-less-than-k/description)           | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/713.js)]       |
+| 41. First Missing Positive                  | Hard   | array    | [leetcode](https://leetcode.com/problems/first-missing-positive/description/)                | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/41.js)]        |
+| 월간 코드 챌린지 시즌1 > 삼각 달팽이        | Lv. 2  | array    | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/68645)               | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/68645.js)]  |
+| 1535. Find the Winner of an Array Game      | Medium | array    | [leetcode](https://leetcode.com/problems/find-the-winner-of-an-array-gamek/description)      | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1535.js)]      |
+| 위클리 챌린지 > 부족한 금액 계산하기        | Lv. 1  |          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/82612)               | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/82612.js)]  |
+| 945. Minimum Increment to Make Array Unique | Medium | array    | [leetcode](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/945.js)]       |
 
 ### WEEK4 (2024.03.18 ~ 2024.03.24)
 
