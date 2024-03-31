@@ -15,6 +15,7 @@
 | 41. First Missing Positive                | Hard   | array    | [leetcode](https://leetcode.com/problems/first-missing-positive/description/)            | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/41.js)]        |
 | 월간 코드 챌린지 시즌1 > 삼각 달팽이      | Lv. 2  | array    | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/68645)           | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/68645.js)]  |
 | 1535. Find the Winner of an Array Game    | Medium | array    | [leetcode](https://leetcode.com/problems/find-the-winner-of-an-array-gamek/description)  | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1535.js)]      |
+| 위클리 챌린지 > 부족한 금액 계산하기      | Lv. 1  |          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/82612)           | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/82612.js)]  |
 
 ### WEEK4 (2024.03.18 ~ 2024.03.24)
 
