@@ -2,6 +2,12 @@
 
 > Solve the _5_ algorithms _per week_.
 
+### WEEK6 (2024.04.01 ~ 2024.04.07)
+
+| Question                                   | level  | keywords | link                                                                                        | code                                                                            |
+| ------------------------------------------ | ------ | -------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 1441. Build an Array With Stack Operations | Medium | Stack    | [leetcode](https://leetcode.com/problems/build-an-array-with-stack-operations/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1441.js)] |
+
 ### WEEK5 (2024.03.25 ~ 2024.03.31)
 
 | Question                                    | level  | keywords | link                                                                                         | code                                                                                 |
