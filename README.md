@@ -10,6 +10,8 @@
 | 완전탐색 > 모의고사                        | Lv. 1  | 완전탐색 | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/42840)              | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/42840.js)] |
 | 해시 > 포켓몬                              | Lv. 1  | hash     | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/1846)               | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/1846.js)]  |
 | 연습문제 > 2016년                          | Lv. 1  |          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12901)              | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12901.js)] |
+| 72. Set Matrix Zeroes                      | Medium | array    | [leetcode](https://leetcode.com/problems/set-matrix-zeroes/description/)                    | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/72.js)]       |
+| 38. Count and Say                          | Medium | string   | [leetcode](https://leetcode.com/problems/count-and-say/description/)                        | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/38.js)]       |
 
 ### WEEK5 (2024.03.25 ~ 2024.03.31)
 
