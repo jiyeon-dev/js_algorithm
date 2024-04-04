@@ -4,14 +4,16 @@
 
 ### WEEK6 (2024.04.01 ~ 2024.04.07)
 
-| Question                                   | level  | keywords | link                                                                                        | code                                                                                |
-| ------------------------------------------ | ------ | -------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| 1441. Build an Array With Stack Operations | Medium | Stack    | [leetcode](https://leetcode.com/problems/build-an-array-with-stack-operations/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1441.js)]     |
-| 완전탐색 > 모의고사                        | Lv. 1  | 완전탐색 | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/42840)              | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/42840.js)] |
-| 해시 > 포켓몬                              | Lv. 1  | hash     | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/1846)               | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/1846.js)]  |
-| 연습문제 > 2016년                          | Lv. 1  |          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12901)              | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12901.js)] |
-| 72. Set Matrix Zeroes                      | Medium | array    | [leetcode](https://leetcode.com/problems/set-matrix-zeroes/description/)                    | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/72.js)]       |
-| 38. Count and Say                          | Medium | string   | [leetcode](https://leetcode.com/problems/count-and-say/description/)                        | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/38.js)]       |
+| Question                                       | level  | keywords | link                                                                                            | code                                                                                 |
+| ---------------------------------------------- | ------ | -------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| 1441. Build an Array With Stack Operations     | Medium | Stack    | [leetcode](https://leetcode.com/problems/build-an-array-with-stack-operations/description/)     | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1441.js)]      |
+| 완전탐색 > 모의고사                            | Lv. 1  | 완전탐색 | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/42840)                  | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/42840.js)]  |
+| 해시 > 포켓몬                                  | Lv. 1  | hash     | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/1846)                   | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/1846.js)]   |
+| 연습문제 > 2016년                              | Lv. 1  |          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12901)                  | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12901.js)]  |
+| 72. Set Matrix Zeroes                          | Medium | array    | [leetcode](https://leetcode.com/problems/set-matrix-zeroes/description/)                        | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/72.js)]        |
+| 38. Count and Say                              | Medium | string   | [leetcode](https://leetcode.com/problems/count-and-say/description/)                            | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/38.js)]        |
+| 콜라 문제                                      | Lv. 1  | hash     | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/132267)                 | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/132267.js)] |
+| 1614. Maximum Nesting Depth of the Parentheses | Easy   | stack    | [leetcode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1614.js)]      |
 
 ### WEEK5 (2024.03.25 ~ 2024.03.31)
 
