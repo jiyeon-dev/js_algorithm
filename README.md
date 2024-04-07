@@ -2,6 +2,11 @@
 
 > Solve the _5_ algorithms _per week_.
 
+### WEEK7 (2024.04.08 ~ 2024.04.14)
+
+| Question | level | keywords | link | code |
+| -------- | ----- | -------- | ---- | ---- |
+
 ### WEEK6 (2024.04.01 ~ 2024.04.07)
 
 | Question                                               | level  | keywords | link                                                                                                    | code                                                                                 |
@@ -16,6 +21,7 @@
 | 1614. Maximum Nesting Depth of the Parentheses         | Easy   | stack    | [leetcode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/)         | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1614.js)]      |
 | 1921. Eliminate Maximum Number of Monsters             | Medium | greedy   | [leetcode](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/description/)             | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1921.js)]      |
 | 2489. Determine if a Cell is Reachable at a Given Time | Medium | math     | [leetcode](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/2489.js)]      |
+| 678. Valid Parenthesis String                          | Medium | string   | [leetcode](https://leetcode.com/problems/valid-parenthesis-string/description/)                         | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/678.js)]       |
 
 ### WEEK5 (2024.03.25 ~ 2024.03.31)
 
