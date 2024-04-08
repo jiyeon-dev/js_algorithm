@@ -21,3 +21,17 @@
 
 - `splice`는 배열에서 일부를 제거하고 새로운 요소를 삽입하는 방식이다. 따라서 내부적으로는 `배열의 재정렬`이 발생할 수 있다.
 - `임시 변수`를 이용한 변경은 두 변수의 값을 `직접 교환`하기 때문에 더 빠르다.
+
+## ◎ 아스키코드
+
+관련 문제 : [2785](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/2785.js)
+
+```javascript
+const char = "A";
+
+// 문자를 ASCII로 변경
+const ascii = char.charCodeAt(); // 65
+
+// ASCII를 문자로 변경
+String.fromCharCode(ascii); // A
+```

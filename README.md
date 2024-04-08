@@ -4,8 +4,10 @@
 
 ### WEEK7 (2024.04.08 ~ 2024.04.14)
 
-| Question | level | keywords | link | code |
-| -------- | ----- | -------- | ---- | ---- |
+| Question                                               | level  | keywords | link                                                                                                    | code                                                                            |
+| ------------------------------------------------------ | ------ | -------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 2785. Sort Vowels in a String                          | Medium | String   | [leetcode](https://leetcode.com/problems/sort-vowels-in-a-string/description/)                          | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/2785.js)] |
+| 1846. Maximum Element After Decreasing and Rearranging | Medium | Array    | [leetcode](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1846.js)] |
 
 ### WEEK6 (2024.04.01 ~ 2024.04.07)
 
