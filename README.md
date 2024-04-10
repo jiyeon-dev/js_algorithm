@@ -10,6 +10,7 @@
 | 1846. Maximum Element After Decreasing and Rearranging | Medium | Array    | [leetcode](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1846.js)]      |
 | 두 원 사이의 정수 쌍                                   | Lv. 2  | 완전탐색 | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/181187)                         | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/181187.js)] |
 | 1630. Arithmetic Subarrays                             | Medium | Array    | [leetcode](https://leetcode.com/problems/arithmetic-subarrays/description/)                             | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1630.js)]      |
+| 950. Reveal Cards In Increasing Order                  | Medium | Array    | [leetcode](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)                 | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/950.js)]       |
 
 ### WEEK6 (2024.04.01 ~ 2024.04.07)
 
