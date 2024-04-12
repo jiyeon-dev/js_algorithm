@@ -14,6 +14,7 @@
 | 997. Find the Town Judge                                  | Easy   | Array    | [leetcode](https://leetcode.com/problems/find-the-town-judge/description/)                                 | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/997.js)]       |
 | 소수 찾기                                                 | Lv. 2  | 완전탐색 | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/42839)                             | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/42839.js)]  |
 | 2482. Difference Between Ones and Zeros in Row and Column | Medium | Array    | [leetcode](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/2482.js)]      |
+| 542. 01 Matrix                                            | Medium | Array    | [leetcode](https://leetcode.com/problems/01-matrix/description/)                                           | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/542.js)]       |
 
 ### WEEK6 (2024.04.01 ~ 2024.04.07)
 
