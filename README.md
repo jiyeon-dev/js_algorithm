@@ -4,8 +4,10 @@
 
 ### WEEK8 (2024.04.15 ~ 2024.04.21)
 
-| Question | level | keywords | link | code |
-| -------- | ----- | -------- | ---- | ---- |
+| Question                      | level  | keywords | link                                                                            | code                                                                           |
+| ----------------------------- | ------ | -------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 112. Path Sum                 | Easy   | Tree     | [leetcode](https://leetcode.com/problems/path-sum/description/)                 | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/112.js)] |
+| 129. Sum Root to Leaf Numbers | Medium | Tree     | [leetcode](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/129.js)] |
 
 ### WEEK7 (2024.04.08 ~ 2024.04.14)
 
