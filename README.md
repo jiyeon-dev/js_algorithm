@@ -4,12 +4,13 @@
 
 ### WEEK8 (2024.04.15 ~ 2024.04.21)
 
-| Question                      | level  | keywords | link                                                                            | code                                                                           |
-| ----------------------------- | ------ | -------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 112. Path Sum                 | Easy   | Tree     | [leetcode](https://leetcode.com/problems/path-sum/description/)                 | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/112.js)] |
-| 129. Sum Root to Leaf Numbers | Medium | Tree     | [leetcode](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/129.js)] |
-| 113. Path Sum II              | Medium | Tree     | [leetcode](https://leetcode.com/problems/path-sum-ii/description/)              | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/113.js)] |
-| 623. Add One Row to Tree      | Medium | Tree     | [leetcode](https://leetcode.com/problems/add-one-row-to-tree/description/)      | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/623.js)] |
+| Question                      | level  | keywords | link                                                                            | code                                                                            |
+| ----------------------------- | ------ | -------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 112. Path Sum                 | Easy   | Tree     | [leetcode](https://leetcode.com/problems/path-sum/description/)                 | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/112.js)]  |
+| 129. Sum Root to Leaf Numbers | Medium | Tree     | [leetcode](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/129.js)]  |
+| 113. Path Sum II              | Medium | Tree     | [leetcode](https://leetcode.com/problems/path-sum-ii/description/)              | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/113.js)]  |
+| 623. Add One Row to Tree      | Medium | Tree     | [leetcode](https://leetcode.com/problems/add-one-row-to-tree/description/)      | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/623.js)]  |
+| 1436. Destination City        | Easy   | Array    | [leetcode](https://leetcode.com/problems/destination-city/description/)         | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1436.js)] |
 
 ### WEEK7 (2024.04.08 ~ 2024.04.14)
 
