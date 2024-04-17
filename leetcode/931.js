@@ -24,3 +24,33 @@ var minFallingPathSum = function (matrix) {
 };
 
 module.exports = minFallingPathSum;
+
+// // Time Limit Exceeded
+// var minFallingPathSum = function (matrix) {
+//   let answer = Infinity;
+
+//   const dfs = (stack, row, col) => {
+//     const curRow = matrix[row];
+//     if (col < 0 || col >= matrix[0].length) return;
+//     if (!curRow) {
+//       const sum = stack.reduce((acc, cur) => acc + cur, 0);
+//       answer = Math.min(sum, answer);
+//       return;
+//     }
+
+//     stack.push(curRow[col]);
+//     if (row < matrix.length) {
+//       dfs([...stack], row + 1, col - 1); // 왼쪽
+//       dfs([...stack], row + 1, col); // 가운데
+//       dfs([...stack], row + 1, col + 1); // 오른쪽
+//     }
+//   };
+
+//   matrix[0].forEach((num, index) => {
+//     dfs([num], 1, index - 1); // 왼쪽
+//     dfs([num], 1, index); // 가운데
+//     dfs([num], 1, index + 1); // 오른쪽
+//   });
+
+//   return answer;
+// };
