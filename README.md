@@ -13,6 +13,7 @@
 | 1436. Destination City                     | Easy   | Array    | [leetcode](https://leetcode.com/problems/destination-city/description/)                     | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1436.js)] |
 | 2225. Find Players With Zero or One Losses | Medium | Array    | [leetcode](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/2225.js)] |
 | 931. Minimum Falling Path Sum              | Medium | DP       | [leetcode](https://leetcode.com/problems/minimum-falling-path-sum/description/)             | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/931.js)]  |
+| 463. Island Perimeter                      | Easy   | Array    | [leetcode](https://leetcode.com/problems/island-perimeter/description/)                     | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/463.js)]  |
 
 ### WEEK7 (2024.04.08 ~ 2024.04.14)
 
