@@ -15,6 +15,7 @@
 | 931. Minimum Falling Path Sum              | Medium | DP       | [leetcode](https://leetcode.com/problems/minimum-falling-path-sum/description/)             | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/931.js)]  |
 | 463. Island Perimeter                      | Easy   | Array    | [leetcode](https://leetcode.com/problems/island-perimeter/description/)                     | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/463.js)]  |
 | 695. Max Area of Island                    | Medium | Array    | [leetcode](https://leetcode.com/problems/max-area-of-island/description/)                   | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/695.js)]  |
+| 200. Number of Islands                     | Medium | Array    | [leetcode](https://leetcode.com/problems/number-of-islands/description/)                    | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/200.js)]  |
 
 ### WEEK7 (2024.04.08 ~ 2024.04.14)
 
