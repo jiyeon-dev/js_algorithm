@@ -20,6 +20,7 @@
 | 요격 시스템                                    | Lv. 2  | Greedy   | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/181188)                 | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/181188.js)] |
 | 998. Smallest String Starting From Leaf        | Medium | Tree     | [leetcode](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/)       | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/998.js)]       |
 | 1249. Minimum Remove to Make Valid Parentheses | Medium | String   | [leetcode](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1249.js)]      |
+| 1992. Find All Groups of Farmland              | Medium | Array    | [leetcode](https://leetcode.com/problems/find-all-groups-of-farmland/description/)              | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1992.js)]      |
 
 ### WEEK7 (2024.04.08 ~ 2024.04.14)
 
