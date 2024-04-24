@@ -2,6 +2,13 @@
 
 > Solve the _5_ algorithms _per week_.
 
+### WEEK9 (2024.04.22 ~ 2024.04.28)
+
+| Question                                      | level  | keywords    | link                                                                                           | code                                                                            |
+| --------------------------------------------- | ------ | ----------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 19. Remove Nth Node From End of List          | Medium | Linked List | [leetcode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)        | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/19.js)]   |
+| 2095. Delete the Middle Node of a Linked List | Medium | Linked List | [leetcode](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/2095.js)] |
+
 ### WEEK8 (2024.04.15 ~ 2024.04.21)
 
 | Question                                       | level  | keywords | link                                                                                            | code                                                                                 |
