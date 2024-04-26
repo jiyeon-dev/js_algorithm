@@ -4,12 +4,13 @@
 
 ### WEEK9 (2024.04.22 ~ 2024.04.28)
 
-| Question                                      | level  | keywords    | link                                                                                             | code                                                                            |
-| --------------------------------------------- | ------ | ----------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
-| 19. Remove Nth Node From End of List          | Medium | Linked List | [leetcode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)          | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/19.js)]   |
-| 2095. Delete the Middle Node of a Linked List | Medium | Linked List | [leetcode](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)   | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/2095.js)] |
-| 12. Integer to Roman                          | Medium | String      | [leetcode](https://leetcode.com/problems/integer-to-roman/description/)                          | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/12.js)]   |
-| 30. Substring with Concatenation of All Words | Hard   | String      | [leetcode](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/30.js)]   |
+| Question                                      | level  | keywords    | link                                                                                             | code                                                                                 |
+| --------------------------------------------- | ------ | ----------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| 19. Remove Nth Node From End of List          | Medium | Linked List | [leetcode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)          | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/19.js)]        |
+| 2095. Delete the Middle Node of a Linked List | Medium | Linked List | [leetcode](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)   | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/2095.js)]      |
+| 12. Integer to Roman                          | Medium | String      | [leetcode](https://leetcode.com/problems/integer-to-roman/description/)                          | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/12.js)]        |
+| 30. Substring with Concatenation of All Words | Hard   | String      | [leetcode](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/30.js)]        |
+| [PCCP 기출문제] 2번 / 석유 시추               | Lv. 2  | DP          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/250136)                  | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/250136.js)] |
 
 ### WEEK8 (2024.04.15 ~ 2024.04.21)
 
