@@ -11,6 +11,7 @@
 | 12. Integer to Roman                          | Medium | String      | [leetcode](https://leetcode.com/problems/integer-to-roman/description/)                          | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/12.js)]        |
 | 30. Substring with Concatenation of All Words | Hard   | String      | [leetcode](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/30.js)]        |
 | [PCCP 기출문제] 2번 / 석유 시추               | Lv. 2  | DP          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/250136)                  | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/250136.js)] |
+| 2018 KAKAO BLIND RECRUITMENT > [1차] 캐시     | Lv. 2  | Array       | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/17680)                   | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/17680.js)]  |
 
 ### WEEK8 (2024.04.15 ~ 2024.04.21)
 
