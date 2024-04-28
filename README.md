@@ -2,6 +2,11 @@
 
 > Solve the _5_ algorithms _per week_.
 
+### WEEK9 (2024.04.29 ~ 2024.05.05)
+
+| Question | level | keywords | link | code |
+| -------- | ----- | -------- | ---- | ---- |
+
 ### WEEK9 (2024.04.22 ~ 2024.04.28)
 
 | Question                                      | level  | keywords    | link                                                                                             | code                                                                                 |
@@ -12,6 +17,9 @@
 | 30. Substring with Concatenation of All Words | Hard   | String      | [leetcode](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/30.js)]        |
 | [PCCP 기출문제] 2번 / 석유 시추               | Lv. 2  | DP          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/250136)                  | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/250136.js)] |
 | 2018 KAKAO BLIND RECRUITMENT > [1차] 캐시     | Lv. 2  | Array       | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/17680)                   | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/17680.js)]  |
+| 1289. Minimum Falling Path Sum II             | Hard   | DP          | [leetcode](https://leetcode.com/problems/minimum-falling-path-sum-ii/description/)               | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1289.js)]      |
+| 땅따먹기                                      | Lv. 2  | DP          | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12913)                   | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12913.js)]  |
+| 2017 팀스타운 - 짝지어 제거하기               | Lv. 2  | String      | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12973)                   | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12973.js)]  |
 
 ### WEEK8 (2024.04.15 ~ 2024.04.21)
 
