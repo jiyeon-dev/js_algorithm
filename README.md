@@ -4,8 +4,10 @@
 
 ### WEEK9 (2024.04.29 ~ 2024.05.05)
 
-| Question | level | keywords | link | code |
-| -------- | ----- | -------- | ---- | ---- |
+| Question                                 | level  | keywords | link                                                                                      | code                                                                            |
+| ---------------------------------------- | ------ | -------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 79. Word Search                          | Medium | DFS      | [leetcode](https://leetcode.com/problems/word-search/description/)                        | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/79.js)]   |
+| 1578. Minimum Time to Make Rope Colorful | Medium | DP       | [leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1578.js)] |
 
 ### WEEK9 (2024.04.22 ~ 2024.04.28)
 
