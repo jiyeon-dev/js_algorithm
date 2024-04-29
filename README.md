@@ -4,10 +4,11 @@
 
 ### WEEK9 (2024.04.29 ~ 2024.05.05)
 
-| Question                                 | level  | keywords | link                                                                                      | code                                                                            |
-| ---------------------------------------- | ------ | -------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| 79. Word Search                          | Medium | DFS      | [leetcode](https://leetcode.com/problems/word-search/description/)                        | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/79.js)]   |
-| 1578. Minimum Time to Make Rope Colorful | Medium | DP       | [leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1578.js)] |
+| Question                                 | level  | keywords | link                                                                                      | code                                                                                |
+| ---------------------------------------- | ------ | -------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 79. Word Search                          | Medium | DFS      | [leetcode](https://leetcode.com/problems/word-search/description/)                        | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/79.js)]       |
+| 1578. Minimum Time to Make Rope Colorful | Medium | DP       | [leetcode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1578.js)]     |
+| 2018 KAKAO BLIND RECRUITMENT [3차] 압축  | Lv. 2  | String   | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/17684)            | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/17684.js)] |
 
 ### WEEK9 (2024.04.22 ~ 2024.04.28)
 
