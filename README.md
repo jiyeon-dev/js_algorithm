@@ -2,6 +2,12 @@
 
 > Solve the _5_ algorithms _per week_.
 
+### WEEK10 (2024.05.06 ~ 2024.05.12)
+
+| Question                  | level  | keywords | link                                                                        | code                                                                           |
+| ------------------------- | ------ | -------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 881. Boats to Save People | Medium | Array    | [leetcode](https://leetcode.com/problems/boats-to-save-people/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/881.js)] |
+
 ### WEEK9 (2024.04.29 ~ 2024.05.05)
 
 | Question                                                     | level  | keywords | link                                                                                              | code                                                                                |
