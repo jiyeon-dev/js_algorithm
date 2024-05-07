@@ -4,10 +4,12 @@
 
 ### WEEK10 (2024.05.06 ~ 2024.05.12)
 
-| Question                  | level  | keywords | link                                                                           | code                                                                                |
-| ------------------------- | ------ | -------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| 881. Boats to Save People | Medium | Array    | [leetcode](https://leetcode.com/problems/boats-to-save-people/description/)    | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/881.js)]      |
-| 괄호 회전하기             | Lv. 2  | String   | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/76502.js)] |
+| Question                                           | level  | keywords    | link                                                                                    | code                                                                                |
+| -------------------------------------------------- | ------ | ----------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 881. Boats to Save People                          | Medium | Array       | [leetcode](https://leetcode.com/problems/boats-to-save-people/description/)             | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/881.js)]      |
+| 괄호 회전하기                                      | Lv. 2  | String      | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/76502)          | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/76502.js)] |
+| 2816. Double a Number Represented as a Linked List | Medium | Linked List | [leetcode](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/2816.js)]     |
+| 2. Add Two Numbers                                 | Medium | Linked List | [leetcode](https://leetcode.com/problems/add-two-numbers/)                              | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/2.js)]        |
 
 ### WEEK9 (2024.04.29 ~ 2024.05.05)
 
