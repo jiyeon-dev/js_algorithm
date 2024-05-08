@@ -11,6 +11,7 @@
 | 2816. Double a Number Represented as a Linked List | Medium | Linked List | [leetcode](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/2816.js)]     |
 | 2. Add Two Numbers                                 | Medium | Linked List | [leetcode](https://leetcode.com/problems/add-two-numbers/)                              | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/2.js)]        |
 | 506. Relative Ranks                                | Easy   | Array       | [leetcode](https://leetcode.com/problems/relative-ranks/)                               | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/506.js)]      |
+| 최솟값 만들기                                      | Lv. 2  | Array       | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12941)          | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12941.js)] |
 
 ### WEEK9 (2024.04.29 ~ 2024.05.05)
 
