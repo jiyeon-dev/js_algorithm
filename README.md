@@ -12,6 +12,8 @@
 | 2. Add Two Numbers                                 | Medium | Linked List | [leetcode](https://leetcode.com/problems/add-two-numbers/)                              | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/2.js)]        |
 | 506. Relative Ranks                                | Easy   | Array       | [leetcode](https://leetcode.com/problems/relative-ranks/)                               | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/506.js)]      |
 | 최솟값 만들기                                      | Lv. 2  | Array       | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12941)          | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12941.js)] |
+| 이진 변환 반복하기                                 | Lv. 2  | Binary      | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/70129)          | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/70129.js)] |
+| 숫자의 표현                                        | Lv. 2  | Number      | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12924)          | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12924.js)] |
 
 ### WEEK9 (2024.04.29 ~ 2024.05.05)
 
