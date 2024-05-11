@@ -15,6 +15,7 @@
 | 이진 변환 반복하기                                 | Lv. 2  | Binary      | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/70129)          | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/70129.js)] |
 | 숫자의 표현                                        | Lv. 2  | Number      | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12924)          | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12924.js)] |
 | 3075. Maximize Happiness of Selected Children      | Medium | Array       | [leetcode](https://leetcode.com/problems/maximize-happiness-of-selected-children/)      | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/3075.js)]     |
+| 다음 큰 숫자                                       | Lv. 2  | Binary      | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12911)          | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12911.js)] |
 
 ### WEEK9 (2024.04.29 ~ 2024.05.05)
 
