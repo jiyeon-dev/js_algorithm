@@ -2,6 +2,12 @@
 
 > Solve the _5_ algorithms _per week_.
 
+### WEEK11 (2024.05.13 ~ 2024.05.19)
+
+| Question                     | level  | keywords | link                                                              | code                                                                            |
+| ---------------------------- | ------ | -------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 1219. Path with Maximum Gold | Medium | Array    | [leetcode](https://leetcode.com/problems/path-with-maximum-gold/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1219.js)] |
+
 ### WEEK10 (2024.05.06 ~ 2024.05.12)
 
 | Question                                           | level  | keywords    | link                                                                                    | code                                                                                |
