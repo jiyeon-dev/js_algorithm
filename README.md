@@ -8,6 +8,7 @@
 | ---------------------------- | ------ | -------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 | 1219. Path with Maximum Gold | Medium | Array    | [leetcode](https://leetcode.com/problems/path-with-maximum-gold/)              | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1219.js)]     |
 | 점프와 순간 이동             | Lv. 2  | Number   | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12980.js)] |
+| 피보나치 수                  | Lv. 2  | Number   | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12945.js)] |
 
 ### WEEK10 (2024.05.06 ~ 2024.05.12)
 
