@@ -4,13 +4,14 @@
 
 ### WEEK11 (2024.05.13 ~ 2024.05.19)
 
-| Question                               | level  | keywords | link                                                                                | code                                                                                |
-| -------------------------------------- | ------ | -------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| 1219. Path with Maximum Gold           | Medium | Array    | [leetcode](https://leetcode.com/problems/path-with-maximum-gold/)                   | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1219.js)]     |
-| 점프와 순간 이동                       | Lv. 2  | Number   | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12980)      | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12980.js)] |
-| 피보나치 수                            | Lv. 2  | Number   | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12945)      | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12945.js)] |
-| 2331. Evaluate Boolean Binary Tree     | Easy   | Tree     | [leetcode](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/2331.js)]     |
-| 1325. Delete Leaves With a Given Value | Medium | Tree     | [leetcode](https://leetcode.com/problems/delete-leaves-with-a-given-value/)         | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1325.js)]     |
+| Question                                        | level  | keywords | link                                                                                 | code                                                                                |
+| ----------------------------------------------- | ------ | -------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| 1219. Path with Maximum Gold                    | Medium | Array    | [leetcode](https://leetcode.com/problems/path-with-maximum-gold/)                    | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1219.js)]     |
+| 점프와 순간 이동                                | Lv. 2  | Number   | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12980)       | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12980.js)] |
+| 피보나치 수                                     | Lv. 2  | Number   | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12945)       | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/12945.js)] |
+| 2331. Evaluate Boolean Binary Tree              | Easy   | Tree     | [leetcode](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/)  | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/2331.js)]     |
+| 1325. Delete Leaves With a Given Value          | Medium | Tree     | [leetcode](https://leetcode.com/problems/delete-leaves-with-a-given-value/)          | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1325.js)]     |
+| 1315. Sum of Nodes with Even-Valued Grandparent | Medium | Tree     | [leetcode](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1315.js)]     |
 
 ### WEEK10 (2024.05.06 ~ 2024.05.12)
 
