@@ -12,6 +12,8 @@
 | 2331. Evaluate Boolean Binary Tree              | Easy   | Tree     | [leetcode](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/)  | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/2331.js)]     |
 | 1325. Delete Leaves With a Given Value          | Medium | Tree     | [leetcode](https://leetcode.com/problems/delete-leaves-with-a-given-value/)          | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1325.js)]     |
 | 1315. Sum of Nodes with Even-Valued Grandparent | Medium | Tree     | [leetcode](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1315.js)]     |
+| 1302. Deepest Leaves Sum                        | Medium | Tree     | [leetcode](https://leetcode.com/problems/deepest-leaves-sum/)                        | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1302.js)]     |
+| 1161. Maximum Level Sum of a Binary Tree        | Medium | Tree     | [leetcode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)        | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1161.js)]     |
 
 ### WEEK10 (2024.05.06 ~ 2024.05.12)
 
