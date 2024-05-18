@@ -14,6 +14,7 @@
 | 1315. Sum of Nodes with Even-Valued Grandparent | Medium | Tree     | [leetcode](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1315.js)]     |
 | 1302. Deepest Leaves Sum                        | Medium | Tree     | [leetcode](https://leetcode.com/problems/deepest-leaves-sum/)                        | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1302.js)]     |
 | 1161. Maximum Level Sum of a Binary Tree        | Medium | Tree     | [leetcode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)        | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1161.js)]     |
+| 979. Distribute Coins in Binary Tree            | Medium | Tree     | [leetcode](https://leetcode.com/problems/distribute-coins-in-binary-tree/)           | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/979.js)]      |
 
 ### WEEK10 (2024.05.06 ~ 2024.05.12)
 
