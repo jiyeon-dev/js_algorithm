@@ -15,6 +15,9 @@
 | 1302. Deepest Leaves Sum                        | Medium | Tree     | [leetcode](https://leetcode.com/problems/deepest-leaves-sum/)                        | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1302.js)]     |
 | 1161. Maximum Level Sum of a Binary Tree        | Medium | Tree     | [leetcode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)        | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/1161.js)]     |
 | 979. Distribute Coins in Binary Tree            | Medium | Tree     | [leetcode](https://leetcode.com/problems/distribute-coins-in-binary-tree/)           | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/979.js)]      |
+| 3005. Count Elements With Maximum Frequency     | Easy   | Array    | [leetcode](https://leetcode.com/problems/count-elements-with-maximum-frequency/)     | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/3003.js)]     |
+| 6. Zigzag Conversion                            | Medium | String   | [leetcode](https://leetcode.com/problems/zigzag-conversion/)                         | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/6.js)]        |
+| 2375. Construct Smallest Number From DI String  | Medium | String   | [leetcode](https://leetcode.com/problems/construct-smallest-number-from-di-string/)  | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/leetcode/2375.js)]     |
 
 ### WEEK10 (2024.05.06 ~ 2024.05.12)
 
