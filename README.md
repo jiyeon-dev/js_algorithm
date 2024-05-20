@@ -2,6 +2,12 @@
 
 > Solve the _5_ algorithms _per week_.
 
+### WEEK12 (2024.05.20 ~ 2024.05.27)
+
+| Question  | level | keywords | link                                                                            | code                                                                                 |
+| --------- | ----- | -------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| 할인 행사 | Lv. 2 | Array    | [programmers](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | [[code](https://github.com/jiyeon-dev/js_algorithm/blob/main/programmers/131127.js)] |
+
 ### WEEK11 (2024.05.13 ~ 2024.05.19)
 
 | Question                                        | level  | keywords | link                                                                                 | code                                                                                |
